@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="icon_margin">18dp</dimen>
+
+    <dimen name="margin_s_small">8dp</dimen>
+    <dimen name="margin_s_medium">10dp</dimen>
+    <dimen name="margin_s_large">12dp</dimen>
+
+    <dimen name="margin_m_small">18dp</dimen>
+    <dimen name="margin_m_medium">20dp</dimen>
+    <dimen name="margin_m_large">22dp</dimen>
+
+    <dimen name="margin_l_small">28dp</dimen>
+    <dimen name="margin_l_medium">30dp</dimen>
+    <dimen name="margin_l_large">32dp</dimen>
+
+
+</resources>
